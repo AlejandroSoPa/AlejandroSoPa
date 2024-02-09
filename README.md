@@ -7,22 +7,22 @@
 <h3>Sobre mí</h3>
 <div align="left">
     <h4>🔭 Actualmente estoy trabajando en:</h4>
-    <p>En este momento, me encuentro inmerso en una emocionante etapa de autodescubrimiento y aprendizaje. Mi enfoque principal es profundizar en tecnologías que antes no había explorado y canalizar mi energía en la creación de proyectos Full-Stack.</p>
+    <p>En este momento, estoy inmerso en una fase emocionante de descubrimiento y aprendizaje. Mi principal objetivo es explorar nuevas tecnologías y trabajar en proyectos como desarrolador Full-Stack.</p>
 </div>
 
 <div align="left">
     <h4>👯 Estoy buscando colaborar en:</h4>
-    <p>Me entusiasma la idea de unirme a proyectos web que me resulten fascinantes y desafiantes. Mi objetivo es contribuir y, al mismo tiempo, nutrir mi crecimiento como programador.</p>
+    <p>Me encantaría colaborar en proyectos web desafiantes y fascinantes, contribuyendo al mismo tiempo a mi crecimiento como programador.</p>
 </div>
 
 <div align="left">
     <h4>🤝 Estoy buscando ayuda con:</h4>
-    <p>Si bien me sumerjo en esta travesía de desarrollo, estaría encantado de recibir orientación o soluciones colaborativas para superar cualquier obstáculo que surja en mi camino.</p>
+    <p>Estoy dispuesto a recibir orientación y colaboración para superar cualquier obstáculo en mi camino de desarrollo.</p>
 </div>
 
 <div align="left">
     <h4>🌱 Actualmente estoy aprendiendo:</h4>
-    <p>En estos momentos, estoy sumergiéndome en el mundo de Node.js para ampliar mi conjunto de habilidades. Pronto, tengo la firme intención de aventurarme en el fascinante terreno de React.</p>
+    <p>Actualmente, estoy adentrándome en el mundo de Node.js para expandir mis habilidades y tengo planes para explorar nuevos horizontes como React, C o CSharp en el futuro cercano.</p>
 </div>
 
 <div align="left">
@@ -32,9 +32,8 @@
 
 <div align="left">
     <h4>📞 Contacto:</h4>
-    <p>¡Conéctate conmigo por correo electrónico! Aquí tienes mis formas de contacto:</p>
-    <p>Correo Electrónico: <a href="mailto:alejandrosoldado03@gmail.com">alejandrosoldado03@gmail.com</a><br>
-      No dudes en enviarme un mensaje para discutir tecnología, colaboración o cualquier otro tema emocionante.</p>
+    <p>¡Si deseas ponerte en contacto conmigo, envíame un correo electrónico! Estoy abierto a discutir temas relacionados con tecnología, colaboración u otros temas emocionantes que puedan surgir.</p>
+    <p>Correo Electrónico: <a href="mailto:alejandrosoldado03@gmail.com">alejandrosoldado03@gmail.com</a></p>
 </div>
 
 <div id="languages" align="left">
