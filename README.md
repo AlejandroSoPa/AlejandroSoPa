@@ -65,7 +65,7 @@
 
 <div align="left">
     <h4>🌐 Redes Sociales y Perfiles:</h4>
-  <p><a href="link to your LinkedIn profile">LinkedIn</a> | <a href="link to your website">Sitio Web</a></p>
+  <p><a href="[link to your LinkedIn profile](https://www.linkedin.com/in/alejandro-soldado-palomino-777b94230/)">LinkedIn</a></p>
 </div>
 
 <div align="left">
