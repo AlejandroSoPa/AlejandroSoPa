@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1># AlejandroSoPa</h1>
+<h1>AlejandroSoPa</h1>
 <h2>¡Hola a todos! 👋</h2>
 </div>
 
@@ -33,7 +33,7 @@
 <div align="left">
     <h4>📞 Contacto:</h4>
     <p>¡Conéctate conmigo por correo electrónico! Aquí tienes mis formas de contacto:</p>
-    <p>Correo Electrónico: <a href="mailto:alejandrosoldado03@gmail.com">tuemail@gmail.com</a><br>
+    <p>Correo Electrónico: <a href="mailto:alejandrosoldado03@gmail.com">alejandrosoldado03@gmail.com</a><br>
       No dudes en enviarme un mensaje para discutir tecnología, colaboración o cualquier otro tema emocionante.</p>
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="left">
     <h4>🌐 Redes Sociales y Perfiles:</h4>
-  <p><a href="[link to your LinkedIn profile](https://www.linkedin.com/in/alejandro-soldado-palomino-777b94230/)">LinkedIn</a></p>
+  <p><a href="https://www.linkedin.com/in/alejandro-soldado-palomino-777b94230">LinkedIn</a></p>
 </div>
 
 <div align="left">
