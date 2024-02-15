@@ -69,9 +69,14 @@
 
 <div align="left">
     <h4>📊 GitHub Stats:</h4>
+    <a href="https://git.io/streak-stats" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlejandroSoPa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Github Stats" /><br>
+        <img src="https://streak-stats.demolab.com?user=AlejandroSoPa&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSoPa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Languajes" /><br>
+    </a>
 </div>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=AlejandroSoPa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-
+<div align="left">
+    <h4>📊 GitHub Trophies:</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=AlejandroSoPa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /><br>
+</div>
+<img src="https://visitcount.itsvg.in/api?id=AlejandroSoPa&icon=0&color=0" /> <br>
